@@ -12,4 +12,5 @@ I was just born so more details to come. But the initial vision is that I am a s
 ### further out
 * support for knative (serverless) so I only run when I'm needed at the scale I'm needed
 * provide my performance as metrics (prometheus?)
+* alert when things go wrong
 * be configured to securely access cloud blob/bucket storage
