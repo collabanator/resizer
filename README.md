@@ -15,3 +15,7 @@ I was just born so more details to come. But the initial vision is that I am a s
 * alert when things go wrong
 * be configured to securely access cloud blob/bucket storage
 * lots of image types support (gifs, HEIF, HEVC)
+* leverage GPUs when available
+
+## Why
+A photo taken on a currrent iPhone is typically 12MP / 3024 x 4032 / ~4MB on device / ~18MB as png <- that's really big! Typically when sharing with someone that full resolution is overkill, we just want something that looks pretty good on our mobile device or laptop screen. Transfering and keeping all those big files around can get expensive in terms of performance as well as cloud storage costs.
